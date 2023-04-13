@@ -123,7 +123,6 @@ $ kotlinc-native hello.kt -o hello -p bitcode
 | Cassandana | mtsoleimani/cassandana |
 | Apache ActiveMQ | apache/activemq |
 | Apache ActiveMQ Artemis | apache/activemq-artemis |
-| Solace | Solace |
 | SwiftMQ | iitsoftware/swiftmq-ce |
 | VerneMQ | vernemq/vernemq |
 | mainflux | mainflux/mainflux |
@@ -179,5 +178,5 @@ $ kotlinc-native hello.kt -o hello -p bitcode
 | pyrinas-server-rs | pyrinas-iot/pyrinas-server-rs |
 | wave | gbour/wave |
 | lannister | anyflow/lannister |
-| JoramMQ | JoramMQ |
+| JoramMQ | [JoramMQ](https://joram.ow2.io/) |
 
